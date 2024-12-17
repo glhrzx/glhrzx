@@ -1,4 +1,4 @@
-<img src="https://github.com/iguilhermegr/iguilhermegr/blob/main/src/img/gr.dev.banner.min.png">
+<img src="https://github.com/gr-tsx/gr-tsx/blob/main/src/img/gr.dev.banner.min.png">
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
@@ -7,7 +7,7 @@
 <div align="left">
 
 - 💻 Im a Software Developer
-- 📚 3 out of 3 years studying System Development
+- 📚 5 years studying and exploring the world of programming and software development
 - 🎓 Specialized as a FrontEnd Web Developer with certificates
 - 🦸‍♂️ Passionate about Marvel and Superheroes
 - ☕ Coffee Lover
