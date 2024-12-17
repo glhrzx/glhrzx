@@ -2,7 +2,7 @@
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
-<h1 align="center"><img align="center" src="https://github.com/iguilhermegr/iguilhermegr/assets/61317250/e8a388aa-fe2f-44d6-89f4-c7d3f6a96611" max-width="45px" width="45px"> <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=6000&pause=2000&width=720&lines=Hello,+how+are+you?+My+name+is+Guilherme,+also+known+as+GR+and+Im+19"></h1>
+<h1 align="center"><img align="center" src="https://github.com/gr-tsx/gr-tsx/assets/61317250/e8a388aa-fe2f-44d6-89f4-c7d3f6a96611" max-width="45px" width="45px"> <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=6000&pause=2000&width=720&lines=Hello,+how+are+you?+My+name+is+Guilherme,+also+known+as+GR+and+Im+19"></h1>
 <img src="https://github.com/iguilhermegr/iguilhermegr/assets/61317250/07fc84e7-c077-4e33-a39f-a5493431a707" alt="coding" align="right" width="165px" height="165px" />
 <div align="left">
 
@@ -55,8 +55,8 @@ I discovered HTML on December 13, 2019, through Hcode and a personal recommendat
 
 ---
   <table><tr><td style="padding: 0; width=50%">
-    <img src="https://github-readme-stats.vercel.app/api/?username=iguilhermegr&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td>
-    <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguilhermegr&langs_count=7&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td></tr></table>  
+    <img src="https://github-readme-stats.vercel.app/api/?username=gr-tsx&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td>
+    <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr-tsx&langs_count=7&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td></tr></table>  
   <code align=center>› Contact me for more information </code>
   <br>
   <br>
