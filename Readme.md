@@ -5,8 +5,9 @@
 <div align="left">
 
 - 💻 Im a Software Developer
+- 🎓 Graduating in Software Engineering
 - 📚 5 years studying and exploring the world of programming and software development
-- 🎓 Specialized as a FrontEnd Web Developer with certificates
+- 🪄 Specialized as a FrontEnd Web Developer with certificates
 - 🦸‍♂️ Passionate about Marvel and Superheroes
 - ☕ Coffee Lover
 - 🚀 Always developing myself until I can't break my limit
