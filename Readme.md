@@ -1,7 +1,7 @@
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
-<h1 align="center"><img align="center" src="https://github.com/gui-ribeiro66/gui-ribeiro66/assets/61317250/e8a388aa-fe2f-44d6-89f4-c7d3f6a96611" max-width="45px" width="45px"> <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=6000&pause=2000&width=720&lines=Hello,+how+are+you?+My+name+is+Guilherme,+Im+19"></h1>
-<img src="https://github.com/gui-ribeiro66/gui-ribeiro66/assets/61317250/07fc84e7-c077-4e33-a39f-a5493431a707" alt="coding" align="right" width="165px" height="165px" />
+<h1 align="center"><img align="center" src="https://github.com/glhrzx/gui-ribeiro66/assets/61317250/e8a388aa-fe2f-44d6-89f4-c7d3f6a96611" max-width="45px" width="45px"> <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=6000&pause=2000&width=720&lines=Hello,+how+are+you?+My+name+is+Guilherme,+Im+20"></h1>
+<img src="https://github.com/glhrzx/gui-ribeiro66/assets/61317250/07fc84e7-c077-4e33-a39f-a5493431a707" alt="coding" align="right" width="165px" height="165px" />
 <div align="left">
 
 - 💻 Im a Software Developer
@@ -45,7 +45,7 @@ I discovered HTML on December 13, 2019, through Hcode and a personal recommendat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" height="46" width="65" align="center">
-  <img src="https://github.com/gui-ribeiro66/gui-ribeiro66/assets/61317250/a0811fc4-9fa0-4df2-a549-39989c2b2d84" height="46" width="63" align="center">
+  <img src="https://github.com/glhrzx/gui-ribeiro66/assets/61317250/a0811fc4-9fa0-4df2-a549-39989c2b2d84" height="46" width="63" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP8" height="65" width="65" align="center">
@@ -61,8 +61,8 @@ I discovered HTML on December 13, 2019, through Hcode and a personal recommendat
   <br>
   <code align=center>› Email, Instagram, and others are attached to my profile</code>
 
-  <a href="https://github.com/gui-ribeiro66/">
-    <img alt="Snake Commit" src="https://github.com/gui-ribeiro66/gui-ribeiro66/blob/output/github-contribution-grid-snake.svg" />
+  <a href="https://github.com/glhrzx/">
+    <img alt="Snake Commit" src="https://github.com/glhrzx/gui-ribeiro66/blob/output/github-contribution-grid-snake.svg" />
   </a>
 
 <h4 align="center">
