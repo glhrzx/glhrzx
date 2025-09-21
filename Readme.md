@@ -54,8 +54,8 @@ I discovered HTML on December 13, 2019, through Hcode and a personal recommendat
 
 ---
   <table><tr><td style="padding: 0; width=50%">
-    <img src="https://github-readme-stats.vercel.app/api/?username=gui-ribeiro66&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td>
-    <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-ribeiro66&langs_count=7&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td></tr></table>  
+    <img src="https://github-readme-stats.vercel.app/api/?username=glhrzx&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td>
+    <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glhrzx&langs_count=7&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td></tr></table>  
   <code align=center>› Contact me for more information </code>
   <br>
   <br>
