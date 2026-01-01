@@ -6,7 +6,7 @@
 
 - 💻 Im a Software Developer
 - 🎓 Graduating in Software Engineering
-- 📚 5 years studying and exploring the world of programming and software development
+- 📚 6 years studying and exploring the world of programming and software development
 - 🪄 Specialized as a FrontEnd Web Developer with certificates
 - 🦸‍♂️ Passionate about Marvel and Superheroes
 - ☕ Coffee Lover
@@ -62,10 +62,10 @@ I discovered HTML on December 13, 2019, through Hcode and a personal recommendat
   <code align=center>› Email, Instagram, and others are attached to my profile</code>
 
   <a href="https://github.com/glhrzx/">
-    <img alt="Snake Commit" src="https://github.com/glhrzx/gui-ribeiro66/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Commit" src="https://github.com/glhrzx/glhrzx/blob/output/github-contribution-grid-snake.svg" />
   </a>
 
 <h4 align="center">
-  © Developer 2019 - 2025 - Profile of Guilherme Ribeiro 🍃
+  © Developer 2019 - 2026 - Profile of Guilherme Ribeiro 🍃
 </h4>
 </div>
